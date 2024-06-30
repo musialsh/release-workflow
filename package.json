@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/musialsh/release-workflow/issues"
   },
-  "homepage": "https://github.com/musialsh/release-workflow#readme"
+  "homepage": "https://github.com/musialsh/release-workflow#readme",
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release": "^24.0.0"
+  }
 }

@@ -1,0 +1,19 @@
+{
+  "name": "release-workflow",
+  "version": "1.0.0",
+  "description": "Testing semantic-release.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musialsh/release-workflow.git"
+  },
+  "author": "Krzysztof Musiał",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musialsh/release-workflow/issues"
+  },
+  "homepage": "https://github.com/musialsh/release-workflow#readme"
+}
